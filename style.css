@@ -1,0 +1,48 @@
+body{
+  margin:0;
+  padding: 0;
+}
+#canvas{
+  margin: 0;
+  padding: 0;
+}
+#up{
+  position: absolute;
+  width: 15vh;
+  height: 15%;
+  top: 70%;
+  left: 15vh;
+  color: white;
+  background-color: black;
+  border: 1px solid white;
+}
+#down{
+  position: absolute;
+  width: 15vh;
+  height: 15%;
+  top: 85%;
+  left: 15vh;
+  color: white;
+  background-color: black;
+  border: 1px solid white;
+}
+#left{
+  position: absolute;
+  width: 15vh;
+  height: 15%;
+  top: 77.5%;
+  left: 0vh;
+  color: white;
+  background-color: black;
+  border: 1px solid white;
+}
+#right{
+  position: absolute;
+  width: 15vh;
+  height: 15%;
+  top: 77.5%;
+  left: 30vh;
+  color: white;
+  background-color: black;
+  border: 1px solid white;
+}
